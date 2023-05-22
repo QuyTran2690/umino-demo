@@ -6,6 +6,10 @@
     font-family: 'GeneralSans';
 }
 
+.fa-solid, .fas {
+    font-weight: 900 !important;
+}
+
 @font-face {
     font-family: General Sans;
     src: url(/asset/font/GeneralSans_Complete.zip);
